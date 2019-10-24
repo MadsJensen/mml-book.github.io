@@ -3,4 +3,4 @@ dependencies:
   - scipy
   - matplotlib
   - scikit-learn
-  
+  - pandas
