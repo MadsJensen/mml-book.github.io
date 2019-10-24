@@ -1,0 +1,8 @@
+name: mml-book
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - sklearn
